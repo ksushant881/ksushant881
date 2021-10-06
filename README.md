@@ -3,7 +3,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ksushant881)
 
-🔭 I’m Sushant, Student at NIT Sikkim
+### 🔭 I’m Sushant, Student at NIT Sikkim
 
 **I like to code in the following way.**
 
@@ -11,10 +11,9 @@
 
 
 > Write small methods. It seems that programmers love to write loooong methods where they do multiple different things. I think that a method should be created wherever you can name one. [_Reference_](https://stackoverflow.com/a/406805/12347371)
+### ✨Connect with me:
 
-<!-- ## Stats -->
-
-<!-- <img src="./profile-summary-card-output/nord_dark/1-repos-per-language.svg"> <img src="./profile-summary-card-output/nord_dark/3-stats.svg"> -->
+[Twitter](https://twitter.com/ksushant881) | [LinkedIn](https://linkedin.com/in/ksushant881) | [Instagram](https://www.instagram.com/ksushant881)
 
 <!--
 **ksushant881/ksushant881** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
