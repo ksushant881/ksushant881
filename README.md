@@ -3,8 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=ksushant881)
 
-### 🔭 I’m Sushant, Student at NIT Sikkim
-
 **I like to code in the following way.**
 
 > Readability is the most important aspect of your code. Even more so than correctness. If it's readable, it's easy to fix. It's also easy to optimize, easy to change, easy to understand. And hopefully other developers can learn something from it too. [_Reference_](https://stackoverflow.com/a/407351/12347371)
