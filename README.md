@@ -1,7 +1,7 @@
 <!-- ### Henlo vro 👋 -->
 # Hi there :wave:
 
-# ![](https://komarev.com/ghpvc/?username=ksushant881)
+
 
 **I like to code in the following way.**
 
